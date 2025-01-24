@@ -1,4 +1,3 @@
-```markdown
 # Voice Recognition and Analysis App
 
 This is a Python-based voice recognition and analysis application that allows users to record audio, analyze sentiment, identify speakers, and perform topic modeling on text data. The application is built using Tkinter for the GUI and integrates various machine learning and natural language processing libraries.
@@ -40,7 +39,7 @@ imblearn
 joblib
 ```
 
-You can install them individually using the following commands:
+You can install them individually using the following command:
 
 ```bash
 pip install customtkinter pyrebase nltk scikit-learn librosa sounddevice soundfile matplotlib seaborn pandas bertopic speechrecognition imblearn joblib
@@ -104,4 +103,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 - [Librosa](https://librosa.org/) for audio analysis.
 - [BERTopic](https://maartengr.github.io/BERTopic/) for topic modeling.
 - [Scikit-learn](https://scikit-learn.org/) for machine learning.
-```
